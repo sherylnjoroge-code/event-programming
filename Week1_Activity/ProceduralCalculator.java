@@ -36,7 +36,7 @@ public class ProceduralCalculator {
  } else {
  System.out.println("Error: Cannot divide by zero");
  scanner.close();
- return
+ return;
  }
  break;
  default:
